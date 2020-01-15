@@ -1,0 +1,15 @@
+{
+  "name": "orangeleaf/stir-auth-importer",
+  "description": "Stirling Collections Authority file importer",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jordan Quinn",
+      "email": "jordan@orangeleaf.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.4"
+  }
+}
